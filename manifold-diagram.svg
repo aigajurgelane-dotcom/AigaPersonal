@@ -11,9 +11,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs196" />
+     id="defs204" />
   <sodipodi:namedview
-     id="namedview194"
+     id="namedview202"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -33,56 +33,86 @@
        fill="#F2F2F2"
        id="rect2" />
     <polygon
-       points="66.0,568.4 115.0,14.4 105.0,13.6 56.0,567.6"
+       points="75.0,568.3 119.0,14.3 111.0,13.7 67.0,567.7"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
        id="polygon4" />
     <polygon
-       points="109.8,19.0 149.8,20.7 150.2,10.7 110.2,9.0"
+       points="65.0,568.3 109.0,14.3 101.0,13.7 57.0,567.7"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
        id="polygon6" />
-    <rect
-       x="104.5"
-       y="8.5"
-       width="11.0"
-       height="11.0"
+    <polygon
+       points="114.8,18.0 149.8,19.7 150.2,11.7 115.2,10.0"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect8" />
+       id="polygon8" />
+    <polygon
+       points="104.9,17.5 149.9,19.2 150.1,12.2 105.1,10.5"
+       fill="#C0C0C0"
+       stroke="#8C8C8C"
+       stroke-width="1"
+       id="polygon10" />
     <rect
-       x="80.5"
+       x="99.0"
+       y="3.0"
+       width="22.0"
+       height="22.0"
+       fill="#C0C0C0"
+       stroke="#8C8C8C"
+       stroke-width="1"
+       id="rect12" />
+    <rect
+       x="144.0"
+       y="9.7"
+       width="12.0"
+       height="12.0"
+       fill="#C0C0C0"
+       stroke="#8C8C8C"
+       stroke-width="1"
+       id="rect14" />
+    <rect
+       x="55.0"
+       y="557.0"
+       width="22.0"
+       height="22.0"
+       fill="#C0C0C0"
+       stroke="#8C8C8C"
+       stroke-width="1"
+       id="rect16" />
+    <rect
+       x="88.5"
        y="343.5"
-       width="126.5"
+       width="118.5"
        height="9.0"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect10" />
+       id="rect18" />
     <rect
-       x="75.0"
+       x="83.0"
        y="342.5"
        width="11.0"
        height="11.0"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect12" />
+       id="rect20" />
     <polygon
        points="237.0,333.0 247.0,324.9 247.0,354.9 237.0,363.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon14" />
+       id="polygon22" />
     <polygon
        points="207.0,333.0 217.0,324.9 247.0,324.9 237.0,333.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon16" />
+       id="polygon24" />
     <rect
        x="207.0"
        y="333.0"
@@ -91,37 +121,37 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect18" />
+       id="rect26" />
     <rect
-       x="75.9"
+       x="84.3"
        y="395.5"
-       width="77.1"
+       width="68.7"
        height="9.0"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect20" />
+       id="rect28" />
     <rect
-       x="70.4"
+       x="78.8"
        y="394.5"
        width="11.0"
        height="11.0"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect22" />
+       id="rect30" />
     <polygon
        points="182.0,386.5 191.7,379.2 191.7,406.2 182.0,413.5"
        fill="#8F1D00"
        stroke="#601400"
        stroke-width="1"
-       id="polygon24" />
+       id="polygon32" />
     <polygon
        points="153.0,386.5 162.7,379.2 191.7,379.2 182.0,386.5"
        fill="#EA6A4A"
        stroke="#601400"
        stroke-width="1"
-       id="polygon26" />
+       id="polygon34" />
     <rect
        x="153.0"
        y="386.5"
@@ -130,37 +160,37 @@
        fill="#D42A00"
        stroke="#601400"
        stroke-width="1"
-       id="rect28" />
+       id="rect36" />
     <rect
-       x="68.7"
+       x="77.9"
        y="476.5"
-       width="136.3"
+       width="127.1"
        height="9.0"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect30" />
+       id="rect38" />
     <rect
-       x="63.2"
+       x="72.4"
        y="475.5"
        width="11.0"
        height="11.0"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect32" />
+       id="rect40" />
     <polygon
        points="233.0,469.5 242.3,463.3 242.3,486.3 233.0,492.5"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon34" />
+       id="polygon42" />
     <polygon
        points="205.0,469.5 214.3,463.3 242.3,463.3 233.0,469.5"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon36" />
+       id="polygon44" />
     <rect
        x="205.0"
        y="469.5"
@@ -169,37 +199,37 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect38" />
+       id="rect46" />
     <rect
-       x="64.8"
+       x="74.4"
        y="520.5"
-       width="88.2"
+       width="78.6"
        height="9.0"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect40" />
+       id="rect48" />
     <rect
-       x="59.3"
+       x="68.9"
        y="519.5"
        width="11.0"
        height="11.0"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect42" />
+       id="rect50" />
     <polygon
        points="182.0,510.0 191.7,501.9 191.7,531.9 182.0,540.0"
        fill="#8F1D00"
        stroke="#601400"
        stroke-width="1"
-       id="polygon44" />
+       id="polygon52" />
     <polygon
        points="153.0,510.0 162.7,501.9 191.7,501.9 182.0,510.0"
        fill="#EA6A4A"
        stroke="#601400"
        stroke-width="1"
-       id="polygon46" />
+       id="polygon54" />
     <rect
        x="153.0"
        y="510.0"
@@ -208,37 +238,37 @@
        fill="#D42A00"
        stroke="#601400"
        stroke-width="1"
-       id="rect48" />
+       id="rect56" />
     <rect
-       x="61.0"
+       x="71.0"
        y="563.5"
-       width="51.0"
+       width="41.0"
        height="9.0"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect50" />
+       id="rect58" />
     <rect
-       x="55.5"
+       x="65.5"
        y="562.5"
        width="11.0"
        height="11.0"
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect52" />
+       id="rect60" />
     <polygon
        points="138.0,556.5 146.7,550.3 146.7,573.3 138.0,579.5"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon54" />
+       id="polygon62" />
     <polygon
        points="112.0,556.5 120.7,550.3 146.7,550.3 138.0,556.5"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon56" />
+       id="polygon64" />
     <rect
        x="112.0"
        y="556.5"
@@ -247,37 +277,37 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect58" />
+       id="rect66" />
     <polygon
        points="149.9,20.2 421.9,24.5 422.1,15.5 150.1,11.2"
        fill="#B7F5B0"
        stroke="#7FCB78"
        stroke-width="1"
-       id="polygon60" />
+       id="polygon68" />
     <circle
        cx="250"
        cy="17.3"
        r="2"
        fill="#6b9e63"
-       id="circle62" />
+       id="circle70" />
     <circle
        cx="300"
        cy="18.1"
        r="2"
        fill="#6b9e63"
-       id="circle64" />
+       id="circle72" />
     <circle
        cx="350"
        cy="18.9"
        r="2"
        fill="#6b9e63"
-       id="circle66" />
+       id="circle74" />
     <circle
        cx="400"
        cy="19.7"
        r="2"
        fill="#6b9e63"
-       id="circle68" />
+       id="circle76" />
     <rect
        x="300.0"
        y="22.7"
@@ -286,7 +316,7 @@
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect70" />
+       id="rect78" />
     <rect
        x="300.0"
        y="17.7"
@@ -295,19 +325,19 @@
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect72" />
+       id="rect80" />
     <polygon
        points="319.0,71.0 327.0,65.0 327.0,85.0 319.0,91.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon74" />
+       id="polygon82" />
     <polygon
        points="291.0,71.0 299.0,65.0 327.0,65.0 319.0,71.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon76" />
+       id="polygon84" />
     <rect
        x="291.0"
        y="71.0"
@@ -316,7 +346,7 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect78" />
+       id="rect86" />
     <rect
        x="300.0"
        y="91.0"
@@ -325,19 +355,19 @@
        fill="#B7F5B0"
        stroke="#7FCB78"
        stroke-width="1"
-       id="rect80" />
+       id="rect88" />
     <polygon
        points="312.0,104.0 316.0,101.0 316.0,111.0 312.0,114.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon82" />
+       id="polygon90" />
     <polygon
        points="298.0,104.0 302.0,101.0 316.0,101.0 312.0,104.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon84" />
+       id="polygon92" />
     <rect
        x="298.0"
        y="104.0"
@@ -346,7 +376,7 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect86" />
+       id="rect94" />
     <line
        x1="305.0"
        y1="94.0"
@@ -354,7 +384,7 @@
        y2="101.0"
        stroke="#5c5c5c"
        stroke-width="1.5"
-       id="line88" />
+       id="line96" />
     <line
        x1="299.0"
        y1="94.0"
@@ -362,7 +392,7 @@
        y2="94.0"
        stroke="#5c5c5c"
        stroke-width="1.5"
-       id="line90" />
+       id="line98" />
     <rect
        x="300.0"
        y="114.0"
@@ -371,19 +401,19 @@
        fill="#B7F5B0"
        stroke="#7FCB78"
        stroke-width="1"
-       id="rect92" />
+       id="rect100" />
     <polygon
        points="319.0,132.0 328.0,125.0 328.0,145.0 319.0,152.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon94" />
+       id="polygon102" />
     <polygon
        points="291.0,132.0 300.0,125.0 328.0,125.0 319.0,132.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon96" />
+       id="polygon104" />
     <rect
        x="291.0"
        y="132.0"
@@ -392,7 +422,7 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect98" />
+       id="rect106" />
     <rect
        x="300.0"
        y="152.0"
@@ -401,19 +431,19 @@
        fill="#B7F5B0"
        stroke="#7FCB78"
        stroke-width="1"
-       id="rect100" />
+       id="rect108" />
     <polygon
        points="319.0,160.0 328.0,153.0 328.0,173.0 319.0,180.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon102" />
+       id="polygon110" />
     <polygon
        points="291.0,160.0 300.0,153.0 328.0,153.0 319.0,160.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon104" />
+       id="polygon112" />
     <rect
        x="291.0"
        y="160.0"
@@ -422,7 +452,7 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect106" />
+       id="rect114" />
     <rect
        x="250.0"
        y="21.9"
@@ -431,7 +461,7 @@
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect108" />
+       id="rect116" />
     <rect
        x="250.0"
        y="16.9"
@@ -440,19 +470,19 @@
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect110" />
+       id="rect118" />
     <polygon
        points="269.0,125.0 277.0,119.0 277.0,139.0 269.0,145.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon112" />
+       id="polygon120" />
     <polygon
        points="241.0,125.0 249.0,119.0 277.0,119.0 269.0,125.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon114" />
+       id="polygon122" />
     <rect
        x="241.0"
        y="125.0"
@@ -461,7 +491,7 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect116" />
+       id="rect124" />
     <rect
        x="250.0"
        y="145.0"
@@ -470,19 +500,19 @@
        fill="#B7F5B0"
        stroke="#7FCB78"
        stroke-width="1"
-       id="rect118" />
+       id="rect126" />
     <polygon
        points="262.0,176.0 266.0,173.0 266.0,183.0 262.0,186.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon120" />
+       id="polygon128" />
     <polygon
        points="248.0,176.0 252.0,173.0 266.0,173.0 262.0,176.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon122" />
+       id="polygon130" />
     <rect
        x="248.0"
        y="176.0"
@@ -491,7 +521,7 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect124" />
+       id="rect132" />
     <line
        x1="255.0"
        y1="166.0"
@@ -499,7 +529,7 @@
        y2="173.0"
        stroke="#5c5c5c"
        stroke-width="1.5"
-       id="line126" />
+       id="line134" />
     <line
        x1="249.0"
        y1="166.0"
@@ -507,7 +537,7 @@
        y2="166.0"
        stroke="#5c5c5c"
        stroke-width="1.5"
-       id="line128" />
+       id="line136" />
     <rect
        x="250.0"
        y="186.0"
@@ -516,19 +546,19 @@
        fill="#B7F5B0"
        stroke="#7FCB78"
        stroke-width="1"
-       id="rect130" />
+       id="rect138" />
     <polygon
        points="269.0,212.0 278.0,205.0 278.0,225.0 269.0,232.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon132" />
+       id="polygon140" />
     <polygon
        points="241.0,212.0 250.0,205.0 278.0,205.0 269.0,212.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon134" />
+       id="polygon142" />
     <rect
        x="241.0"
        y="212.0"
@@ -537,7 +567,7 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect136" />
+       id="rect144" />
     <rect
        x="250.0"
        y="232.0"
@@ -546,19 +576,19 @@
        fill="#B7F5B0"
        stroke="#7FCB78"
        stroke-width="1"
-       id="rect138" />
+       id="rect146" />
     <polygon
        points="269.5,238.0 279.5,230.0 279.5,251.0 269.5,259.0"
        fill="#8F1D00"
        stroke="#601400"
        stroke-width="1"
-       id="polygon140" />
+       id="polygon148" />
     <polygon
        points="240.5,238.0 250.5,230.0 279.5,230.0 269.5,238.0"
        fill="#EA6A4A"
        stroke="#601400"
        stroke-width="1"
-       id="polygon142" />
+       id="polygon150" />
     <rect
        x="240.5"
        y="238.0"
@@ -567,7 +597,7 @@
        fill="#D42A00"
        stroke="#601400"
        stroke-width="1"
-       id="rect144" />
+       id="rect152" />
     <rect
        x="160.0"
        y="20.4"
@@ -576,7 +606,7 @@
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect146" />
+       id="rect154" />
     <rect
        x="160.0"
        y="15.4"
@@ -585,19 +615,19 @@
        fill="#C0C0C0"
        stroke="#8C8C8C"
        stroke-width="1"
-       id="rect148" />
+       id="rect156" />
     <polygon
        points="179.0,170.0 187.0,164.0 187.0,184.0 179.0,190.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon150" />
+       id="polygon158" />
     <polygon
        points="151.0,170.0 159.0,164.0 187.0,164.0 179.0,170.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon152" />
+       id="polygon160" />
     <rect
        x="151.0"
        y="170.0"
@@ -606,7 +636,7 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect154" />
+       id="rect162" />
     <rect
        x="160.0"
        y="190.0"
@@ -615,19 +645,19 @@
        fill="#B7F5B0"
        stroke="#7FCB78"
        stroke-width="1"
-       id="rect156" />
+       id="rect164" />
     <polygon
        points="172.0,198.0 176.0,195.0 176.0,205.0 172.0,208.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon158" />
+       id="polygon166" />
     <polygon
        points="158.0,198.0 162.0,195.0 176.0,195.0 172.0,198.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon160" />
+       id="polygon168" />
     <rect
        x="158.0"
        y="198.0"
@@ -636,7 +666,7 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect162" />
+       id="rect170" />
     <line
        x1="165.0"
        y1="188.0"
@@ -644,7 +674,7 @@
        y2="195.0"
        stroke="#5c5c5c"
        stroke-width="1.5"
-       id="line164" />
+       id="line172" />
     <line
        x1="159.0"
        y1="188.0"
@@ -652,7 +682,7 @@
        y2="188.0"
        stroke="#5c5c5c"
        stroke-width="1.5"
-       id="line166" />
+       id="line174" />
     <rect
        x="160.0"
        y="208.0"
@@ -661,19 +691,19 @@
        fill="#B7F5B0"
        stroke="#7FCB78"
        stroke-width="1"
-       id="rect168" />
+       id="rect176" />
     <polygon
        points="165.0,221.0 176.0,232.0 165.0,243.0 154.0,232.0"
        fill="#4FB3AC"
        stroke="#003838"
        stroke-width="1"
-       id="polygon170" />
+       id="polygon178" />
     <polygon
        points="165.0,232.0 176.0,232.0 171.6,238.6 160.6,236.4"
        fill="#005050"
        stroke="#003838"
        stroke-width="1"
-       id="polygon172" />
+       id="polygon180" />
     <rect
        x="159.5"
        y="230.3"
@@ -682,7 +712,7 @@
        fill="#008080"
        stroke="#003838"
        stroke-width="1"
-       id="rect174" />
+       id="rect182" />
     <rect
        x="160.0"
        y="242.0"
@@ -691,19 +721,19 @@
        fill="#B7F5B0"
        stroke="#7FCB78"
        stroke-width="1"
-       id="rect176" />
+       id="rect184" />
     <polygon
        points="179.0,250.0 188.0,243.0 188.0,263.0 179.0,270.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon178" />
+       id="polygon186" />
     <polygon
        points="151.0,250.0 160.0,243.0 188.0,243.0 179.0,250.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon180" />
+       id="polygon188" />
     <rect
        x="151.0"
        y="250.0"
@@ -712,7 +742,7 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect182" />
+       id="rect190" />
     <rect
        x="160.0"
        y="270.0"
@@ -721,19 +751,19 @@
        fill="#B7F5B0"
        stroke="#7FCB78"
        stroke-width="1"
-       id="rect184" />
+       id="rect192" />
     <polygon
        points="179.0,285.0 188.0,278.0 188.0,298.0 179.0,305.0"
        fill="#949494"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon186" />
+       id="polygon194" />
     <polygon
        points="151.0,285.0 160.0,278.0 188.0,278.0 179.0,285.0"
        fill="#D9D9D9"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="polygon188" />
+       id="polygon196" />
     <rect
        x="151.0"
        y="285.0"
@@ -742,6 +772,6 @@
        fill="#C0C0C0"
        stroke="#7A7A7A"
        stroke-width="1"
-       id="rect190" />
+       id="rect198" />
   </g>
 </svg>
